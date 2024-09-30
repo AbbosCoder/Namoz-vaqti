@@ -1,0 +1,5 @@
+.env
+__pycache__
+user.db
+channels.db
+Pipfile

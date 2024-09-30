@@ -1,0 +1,5 @@
+pandas==2.1.1
+aiogram==2.25.1
+environs~=8.0.0
+sqlparse==0.4.4
+sqlite3
